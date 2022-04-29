@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-blue-omega-98.vercel.app/)
+
 - 📫 How to reach me **khanfaizan2505@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1cfQjwfarS7Ebt2gBEUL-X6NK8UkcL-AqMXo6SjOxvSQ/edit?usp=sharing)
