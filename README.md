@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khanfaizan2505@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1cfQjwfarS7Ebt2gBEUL-X6NK8UkcL-AqMXo6SjOxvSQ/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1N7E-6bEbQsNkdbCgDCHU2c0opnmoMMEm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
