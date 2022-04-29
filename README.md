@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://faizanfzk-khanfaizan2505-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-nu-virid.vercel.app/)
 
 - 📫 How to reach me **khanfaizan2505@gmail.com**
 
